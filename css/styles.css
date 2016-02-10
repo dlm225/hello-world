@@ -7,19 +7,14 @@ h1.center {
     text-align: center;
 }
 
-h2.center {
-    color: blue;
+p.center {
+    color: black;
     text-align: center;
 }
 
-h3.center {
+h2.center {
     color: darkorange;
     text-align: center;
-}
-
-p {
-    font-family: "Times New Roman";
-    font-size: 20px;
 }
 
 img.centerimg{
