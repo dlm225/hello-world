@@ -16,7 +16,7 @@
 
 <body>
 
-<div class="center-block">
+<div class="container-fluid">
 <div class="row">
   <div class="col-md-4">
     <h3 class="text-center text-primary">David Morgan</h3>
