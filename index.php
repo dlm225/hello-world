@@ -1,58 +1,55 @@
-
-<!doctype html>
-
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>P1 - an Introduction</title>
+    <title>P1 - an Introduction</title>
   <meta name="description" content="Project 1 - David Morgan">
   <meta name="author" content="David Morgan">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 
 </head>
 
 <body>
 
-<div id="maincontainer">
-
-  <aside>
-    <h1 class="center"> David Morgan </h1>
-    <img class="centerimg" src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
-  </aside>
-
-  <section class="righttop">
-    <div class="outercontainer">
-      <div class="innercontainer">
-        <h2 class="center"> Project 2 </h2>
-        <p class="center"> View: [Link] </p>
-        <p class="center"> GitHub: [Link] </p>
+<div class="center-block">
+<div class="row">
+  <div class="col-md-4">
+    <h3 class="text-center text-primary">David Morgan</h3>
+    <img class="center-block" src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
+  </div>
+  <div class="col-md-8">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Project 2</h2>
+        <p>View: [Link]</p>
+        <p>GitHub: [Link]</p>
       </div>
     </div>
-  </section>
-
-  <section class="rightmiddle">
-    <div class="outercontainer">
-      <div class="innercontainer">
-        <h2 class="center"> Project 3 </h2>
-        <p class="center"> View: [Link] </p>
-        <p class="center"> GitHub: [Link] </p>
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Project 3</h2>
+        <p>View: [Link]</p>
+        <p>GitHub: [Link]</p>
       </div>
     </div>
-  </section>
-
-  <section class="rightbottom">
-    <div class="outercontainer">
-      <div class="innercontainer">
-        <h2 class="center"> Project 4 </h2>
-        <p class="center"> View: [Link] </p>
-        <p class="center"> GitHub: [Link] </p>
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Project 4</h2>
+        <p>View: [Link]</p>
+        <p>GitHub: [Link]</p>
       </div>
     </div>
-  </section>
-
+  </div>
+</div>
 </div>
 
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/scripts.js"></script>
 </body>
 </html>

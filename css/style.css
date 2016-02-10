@@ -1,0 +1,13 @@
+# Empty CSS file for your own CSS
+
+img.centerimg{
+  display:block;
+  margin:auto;
+  width:100%;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
