@@ -57,12 +57,12 @@ section.rightbottom{
   width:100%;
 }
 
-#outercontainer{
+div.outercontainer{
   position:relative;
   margin:auto;
 }
 
-#innercontainer{
+div.innercontainer{
   position:absolute;
   top:50%;
   margin: auto;

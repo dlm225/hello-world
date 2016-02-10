@@ -14,7 +14,7 @@
 </head>
 
 <body>
-  
+
 <div id="maincontainer">
 
   <aside>
@@ -23,8 +23,8 @@
   </aside>
 
   <section class="righttop">
-    <div id="outercontainer">
-      <div id="innercontainer">
+    <div class="outercontainer">
+      <div class="innercontainer">
         <h2 class="center"> Project 2 </h2>
         <p class="center"> View: [Link] </p>
         <p class="center"> GitHub: [Link] </p>
@@ -33,8 +33,8 @@
   </section>
 
   <section class="rightmiddle">
-    <div id="outercontainer">
-      <div id="innercontainer">
+    <div class="outercontainer">
+      <div class="innercontainer">
         <h2 class="center"> Project 3 </h2>
         <p class="center"> View: [Link] </p>
         <p class="center"> GitHub: [Link] </p>
@@ -43,8 +43,8 @@
   </section>
 
   <section class="rightbottom">
-    <div id="outercontainer">
-      <div id="innercontainer">
+    <div class="outercontainer">
+      <div class="innercontainer">
         <h2 class="center"> Project 4 </h2>
         <p class="center"> View: [Link] </p>
         <p class="center"> GitHub: [Link] </p>
