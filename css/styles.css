@@ -13,11 +13,58 @@ p.center {
 }
 
 h2.center {
-    color: darkorange;
+    color: darkblue;
     text-align: center;
 }
 
 img.centerimg{
   display:block;
   margin:auto;
+  width:80%;
+}
+
+aside{
+  float: left;
+  background-color: white;
+  width:300px;
+  height:450px;
+}
+
+section.righttop{
+  margin-left: 300px;
+  background-color: lightgray;
+  height: 150px;
+  width: 400px;
+}
+
+section.rightmiddle{
+  margin-left: 300px;
+
+  background-color: gray;
+  height: 150px;
+  width: 400px;
+}
+
+section.rightbottom{
+  margin-left: 300px;
+  background-color: darkgray;
+  height: 150px;
+  width: 400px;
+}
+
+#maincontainer{
+  margin:auto;
+  width:100%;
+}
+
+#outercontainer{
+  position:relative;
+  margin:auto;
+}
+
+#innercontainer{
+  position:absolute;
+  top:50%;
+  margin: auto;
+  width: 100%;
 }

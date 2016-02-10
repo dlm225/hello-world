@@ -14,20 +14,45 @@
 </head>
 
 <body>
-  <h1 class="center"> David Morgan </h1>
-  <img class="centerimg" src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
+  
+<div id="maincontainer">
 
-  <h2 class="center"> Project 2 </h2>
-    <p class="center"> View: [Link] </p>
-    <p class="center"> GitHub: [Link] </p>
+  <aside>
+    <h1 class="center"> David Morgan </h1>
+    <img class="centerimg" src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
+  </aside>
 
-  <h2 class="center"> Project 3 </h2>
-    <p class="center"> View: [Link] </p>
-    <p class="center"> GitHub: [Link] </p>
+  <section class="righttop">
+    <div id="outercontainer">
+      <div id="innercontainer">
+        <h2 class="center"> Project 2 </h2>
+        <p class="center"> View: [Link] </p>
+        <p class="center"> GitHub: [Link] </p>
+      </div>
+    </div>
+  </section>
 
-  <h2 class="center"> Project 4 </h2>
-    <p class="center"> View: [Link] </p>
-    <p class="center"> GitHub: [Link] </p>
+  <section class="rightmiddle">
+    <div id="outercontainer">
+      <div id="innercontainer">
+        <h2 class="center"> Project 3 </h2>
+        <p class="center"> View: [Link] </p>
+        <p class="center"> GitHub: [Link] </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="rightbottom">
+    <div id="outercontainer">
+      <div id="innercontainer">
+        <h2 class="center"> Project 4 </h2>
+        <p class="center"> View: [Link] </p>
+        <p class="center"> GitHub: [Link] </p>
+      </div>
+    </div>
+  </section>
+
+</div>
 
 </body>
 </html>
