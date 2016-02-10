@@ -15,6 +15,6 @@
 
 <body>
   <h1> David Morgan </h1>
-  <img src="images/david.jpg" height=400 width=300>
+  <img src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
 </body>
 </html>
