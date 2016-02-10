@@ -17,15 +17,15 @@
   <h1 class="center"> David Morgan </h1>
   <img class="centerimg" src="images/david.jpg" height=300 width=250 alt="Photo of David Morgan">
 
-  <h2 class="center"> Project 2 </h3>
+  <h2 class="center"> Project 2 </h2>
     <p class="center"> View: [Link] </p>
     <p class="center"> GitHub: [Link] </p>
 
-  <h2 class="center"> Project 3 </h3>
+  <h2 class="center"> Project 3 </h2>
     <p class="center"> View: [Link] </p>
     <p class="center"> GitHub: [Link] </p>
 
-  <h2 class="center"> Project 4 </h3>
+  <h2 class="center"> Project 4 </h2>
     <p class="center"> View: [Link] </p>
     <p class="center"> GitHub: [Link] </p>
 
