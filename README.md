@@ -14,4 +14,4 @@ No login required.
 
 ## Outside code
 
-* Bootstrap v3.3.5: http://getbootstrap.com/
+* Bootstrap v3.3.5: customized code pulled from http://www.layoutit.com/build
